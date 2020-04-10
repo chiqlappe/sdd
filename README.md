@@ -1,1 +1,1 @@
-# sd card drive for PC-8001
+# PC-8001用 micorSDドライブ（要 8KB拡張RAMボード）
